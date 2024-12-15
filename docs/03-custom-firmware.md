@@ -25,3 +25,5 @@
 13. After the image is flashed, go to `Enter bootloader` and press Power
 14. Wipe the device with `fastboot -w`
 15. Reboot the device with `fastboot reboot`
+
+If everything worked properly, you should see the LineageOS logo and be greeted with the OOBE.
