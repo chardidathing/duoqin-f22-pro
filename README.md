@@ -4,7 +4,7 @@
 
 - [x] Dump Original Firmware
 - [x] Unlock Bootloader
-- [ ] Custom Firmware (GSI?)
+- [x] Custom Firmware (GSI?)
 - [ ] Modules for Device Specific Features
   - [ ] IR Blaster
   - [ ] Keypad Backlight

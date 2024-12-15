@@ -4,13 +4,13 @@
 
 ### Unlocking your bootloader will ***ERASE ALL DATA*** on your device. Please ensure you backup your data before proceeding.
 
-### Requirements
+## Requirements
 
 - Duoqin F22 Pro
 - Android Platform Tools (adb, fastboot)
-- [mtkclient](https://github.com/bkerler/mtkclient)
+- [mtkclient](https://github.com/bkerler/mtkclient) - This assumes you've already set it up.
 
-### Steps
+## Steps
 
 1. Enable `OEM Unlocking` - Settings > About Phone > Tap `Build Number` 7 times > *back* > System > Developer Options > Enable `OEM unlocking`
 2. Power off device

@@ -8,7 +8,7 @@
 
 ### I'll be using the mtkclient GUI for these steps, if you know how to do it with the CLI, feel free. :)
 
-# Whole Flash
+## Whole Flash
 
 1. Setup [mtkclient](https://github.com/bkerler/mtkclient)
 2. Power off device
@@ -28,7 +28,7 @@ Woo, you dumped the firmware!
 
 > If you happen to have the device with the original Chinese firmware, and are happy to share a copy, feel free to email be at `charlie (at) ktty (dot) au`
 
-# Individual Partitions
+## Individual Partitions
 
 If you'd like to dump individual partitions (easy for quick recovery during testing), you can do so with the following steps:
 
