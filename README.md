@@ -3,7 +3,7 @@
 ## Goals
 
 - [x] Dump Original Firmware
-- [ ] Unlock Bootloader
+- [x] Unlock Bootloader
 - [ ] Custom Firmware (GSI?)
 - [ ] Modules for Device Specific Features
   - [ ] IR Blaster
