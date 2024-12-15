@@ -27,3 +27,5 @@
 15. Reboot the device with `fastboot reboot`
 
 If everything worked properly, you should see the LineageOS logo and be greeted with the OOBE.
+
+> NOTE: Networking appears to be broken by default? `adb shell settings put global restricted_networking_mode 0` appears to fix this.
