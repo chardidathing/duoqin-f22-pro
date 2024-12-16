@@ -1,5 +1,7 @@
 # Duoqin F22 Pro
 
+> Your warranty is now void (maybe). I am not responsible for bricked devices, dead SD cards (not like we had the slot, thanks duoqin), thermonuclear war, or you getting fired because the alarm app failed. Please do some research if you have any concerns about features included in these documents before following them! YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you. (The docs are also WIP so please do not continue unless you know what you're doing :3)
+
 ## Goals
 
 - [x] Dump Original Firmware
