@@ -8,11 +8,13 @@
 - [ ] Modules for Device Specific Features
   - [ ] IR Blaster
   - [ ] Keypad Backlight
-- [ ] VoLTE on Custom Firmware
+- [x] VoLTE on Custom Firmware
 - [ ] VoWiFi on Custom Firmware
 - [ ] Custom Recovery (Not Necessary)
-- [ ] Magisk
+- [x] Magisk
 
 ## Current Status
 
-I have phone, no fucking clue.
+~~I have phone, no fucking clue.~~
+
+Phone is easily unlocked, LineageOS GSI plays pretty well with it, device specific features are still very WIP and I might end up building a custom GSI image for it with these features baked in (w/support for key backlight toggling, etc.)
